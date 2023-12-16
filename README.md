@@ -8,6 +8,7 @@ This web application is the result of our journey through the Czechitas Web Acad
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
+- [Contributors](#contributors)
 
 ## Project Details
 
@@ -44,6 +45,11 @@ This project leverages the following technologies:
 - [Swiper](https://swiperjs.com/): Implemented for creating interactive sliders.
 - [Netlify](https://www.netlify.com/): Hosting the project online.
 
+## Contributors
+
+- Adéla Fialová - [LinkedIn](https://www.linkedin.com/in/adela-fialova/)
+- Christelle Natabou - [LinkedIn](https://www.linkedin.com/in/christelle-linda-natabou/) - Founder and creative mind behind PersonALL.
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Open-source final project developed by the Czechitas Web Academy beginners.
