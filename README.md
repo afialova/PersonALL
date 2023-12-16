@@ -1,7 +1,7 @@
-# PersonALL Project
+
 ## Czechitas Web Academy Project
 
-Welcome to the PersonALL project! This web application is the result of our journey through the Czechitas Web Academy, where we aimed to create a platform that fosters inclusivity, understanding, and community.
+This web application is the result of our journey through the Czechitas Web Academy.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Table of Contents
@@ -13,10 +13,6 @@ Welcome to the PersonALL project! This web application is the result of our jour
 - [Technologies Used](#technologies-used)
 - [Future Additions](#future-additions)
 - [Contributors](#contributors)
-
-## Overview
-
-The PersonALL project is dedicated to creating a space where everyone feels welcome and respected. It addresses the challenges of those who may feel excluded due to factors such as origin, race, religion, sexual orientation, or other aspects. Our goal is to provide support, guidance, and a sense of belonging to individuals navigating through various aspects of life.
 
 ## Project Details
 
@@ -62,26 +58,13 @@ This project leverages the following technologies:
 - [Swiper](https://swiperjs.com/): Implemented for creating interactive sliders.
 - [Netlify](https://www.netlify.com/): Hosting the project online.
 
-## Future Additions
-
-While the current version of the project provides a solid foundation, there are several potential features and improvements that could enhance the overall experience. These are suggestions for future expansions:
-
-- **Advanced Community Features:** Explore ways to enhance community interaction and engagement, such as personalized user profiles, badges, or achievements.
-- **Interactive Multimedia Content:** Consider incorporating interactive multimedia elements, like videos or podcasts, to make the content more dynamic and engaging.
-- **Personalization Options:** Allow users to customize their experience, such as choosing preferred themes or adjusting font sizes for accessibility.
-- **Interactive Chatbot Support:** Consider integrating an intelligent chatbot to offer immediate assistance, resources, or simply engage in conversations with users. This could enhance user interaction and provide a more personalized experience.
-- **Real-time Community Events:** Explore the option of incorporating a calendar or event system to keep the community informed about upcoming events, discussions, or activities.
-- **Expanded Language Support:** Extend language options to cater to a more diverse audience, fostering inclusivity and accessibility.
-
 ## Contributors
 
 - Adéla Fialová - [LinkedIn](https://www.linkedin.com/in/adela-fialova/)
-- Christelle Natabou - [LinkedIn](https://www.linkedin.com/in/christelle-linda-natabou/)
+- Christelle Natabou - [LinkedIn](https://www.linkedin.com/in/christelle-linda-natabou/) - Founder and creative mind behind PersonALL.
 
 Feel free to reach out to us if you have any questions, feedback, or suggestions.<br>
-We hope you find PersonALL helpful and welcoming!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**PersonALL** is an open-source final project developed by the Czechitas Web Academy beginners.
 
